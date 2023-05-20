@@ -20,6 +20,10 @@
   --_bg: #333; /* <-----------  The change */
   --_logo-color: #fff;
   --_nav-link-color: #f00;
+
+  /* Try to minimize header.... working~~ */
+  /*height: 0px !important;*/
+  top: -64px;
 }
 
 .primary-header__inner {
