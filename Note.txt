@@ -1,0 +1,6 @@
+Easily change sticky nav styling on scroll (https://www.youtube.com/watch?v=V-CBdlfCPic)
+
+https://codepen.io/kevinpowell/pen/xxyybmj
+https://github.com/Annie-Huang/change-sticky-nav-on-scroll
+
+----------------------------------------------------------------------
