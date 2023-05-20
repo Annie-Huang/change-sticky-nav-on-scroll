@@ -13,11 +13,11 @@
 /* for demo, probably not the best idea */
 .primary-header,
 .primary-header * {
-  transition: 500ms;
+  transition: 500ms; /* <-----------  The animation */
 }
 
 .primary-header.sticking {
-  --_bg: #333;
+  --_bg: #333; /* <-----------  The change */
   --_logo-color: #fff;
   --_nav-link-color: #f00;
 }
